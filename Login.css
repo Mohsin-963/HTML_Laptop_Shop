@@ -1,0 +1,63 @@
+body{
+background-color: gray;
+color:black;
+}
+
+a
+{
+	color:white;
+	font-size:25px;
+	text-decoration: none;
+
+}
+
+.round
+{
+background-color: black;
+color:black;
+border-radius:10px;
+height: 18px;
+}
+
+.round:hover
+{
+background-color: blue;
+color:black;
+border-radius:10px;
+height: 20px;
+}
+.roundmain
+{
+	background-position: center;
+	background-size: 70% 150%;
+	background-repeat: no-repeat;
+	background-image: url("pic/c5.png");
+	height:225px;
+	width:114%;
+font-size:50px;
+font-weight: bold;
+color:white;
+border-radius:10px;
+text-shadow: 6px 2px 4px gray;
+}
+
+
+.divc{
+	height: 70%;
+	width: 350px;
+	background-color: white;
+	color: black;
+	margin-left: 37%;
+	font-size: 20px;
+	line-height: 30px;
+}
+input{
+	border: 1px solid;
+	width: 350;
+	padding: 10px;
+}
+
+p{
+	font-size: 12pt;
+	text-align: justify;
+}
